@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionMVC", "AplicacionMVC\AplicacionMVC.csproj", "{75BE489B-9E9B-4C8A-A207-CFBD02AFB19B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{37305429-DCB4-484A-8DA4-93DD2B0C85BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "Controlador\Controlador.csproj", "{CC22F193-7D31-498A-9AB2-0C2A031CCC3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BE489B-9E9B-4C8A-A207-CFBD02AFB19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BE489B-9E9B-4C8A-A207-CFBD02AFB19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BE489B-9E9B-4C8A-A207-CFBD02AFB19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BE489B-9E9B-4C8A-A207-CFBD02AFB19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37305429-DCB4-484A-8DA4-93DD2B0C85BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37305429-DCB4-484A-8DA4-93DD2B0C85BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37305429-DCB4-484A-8DA4-93DD2B0C85BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37305429-DCB4-484A-8DA4-93DD2B0C85BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC22F193-7D31-498A-9AB2-0C2A031CCC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC22F193-7D31-498A-9AB2-0C2A031CCC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC22F193-7D31-498A-9AB2-0C2A031CCC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC22F193-7D31-498A-9AB2-0C2A031CCC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {598DEA8C-68CA-4DE2-B52F-C56C68AE4177}
+	EndGlobalSection
+EndGlobal

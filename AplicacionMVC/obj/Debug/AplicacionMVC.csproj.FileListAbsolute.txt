@@ -1,0 +1,10 @@
+D:\AplicacionMVC\AplicacionMVC\bin\Debug\AplicacionMVC.exe.config
+D:\AplicacionMVC\AplicacionMVC\bin\Debug\AplicacionMVC.exe
+D:\AplicacionMVC\AplicacionMVC\bin\Debug\AplicacionMVC.pdb
+D:\AplicacionMVC\AplicacionMVC\obj\Debug\AplicacionMVC.csprojAssemblyReference.cache
+D:\AplicacionMVC\AplicacionMVC\obj\Debug\AplicacionMVC.Form1.resources
+D:\AplicacionMVC\AplicacionMVC\obj\Debug\AplicacionMVC.Properties.Resources.resources
+D:\AplicacionMVC\AplicacionMVC\obj\Debug\AplicacionMVC.csproj.GenerateResource.cache
+D:\AplicacionMVC\AplicacionMVC\obj\Debug\AplicacionMVC.csproj.CoreCompileInputs.cache
+D:\AplicacionMVC\AplicacionMVC\obj\Debug\AplicacionMVC.exe
+D:\AplicacionMVC\AplicacionMVC\obj\Debug\AplicacionMVC.pdb
